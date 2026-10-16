@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-04-28T01:07:18.091016+00:00",
+  "total_routed": 7,
+  "settled": [],
+  "pending": [
+    {
+      "package": "Android Dev Environment Setup",
+      "platform": "Fiverr",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    },
+    {
+      "package": "Android Dev Environment Setup",
+      "platform": "Upwork",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    },
+    {
+      "package": "Lightning Payment Integration",
+      "platform": "Fiverr",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    },
+    {
+      "package": "Lightning Payment Integration",
+      "platform": "Upwork",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    },
+    {
+      "package": "Lightning Payment Integration",
+      "platform": "Nostr",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    },
+    {
+      "package": "Local AI Chatbot Setup",
+      "platform": "Fiverr",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    },
+    {
+      "package": "Local AI Chatbot Setup",
+      "platform": "Upwork",
+      "payment_hash": null,
+      "reason": "no_payment_id"
+    }
+  ],
+  "untracked": [],
+  "settled_count": 0,
+  "pending_count": 7,
+  "untracked_count": 0
+}

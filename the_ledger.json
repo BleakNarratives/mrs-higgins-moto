@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-04-27T00:18:11.827939Z",
+  "entries": [
+    {
+      "package": "Android Dev Environment Setup",
+      "platform": "Fiverr",
+      "score": 13,
+      "label": "\ud83d\udfe2 SHIPPING",
+      "routes": 1,
+      "dry_runs": 0,
+      "reasons": [
+        "payment pending (+4)",
+        "3 scout lead(s) (+9)"
+      ]
+    },
+    {
+      "package": "Lightning Payment Integration",
+      "platform": "Fiverr",
+      "score": 13,
+      "label": "\ud83d\udfe2 SHIPPING",
+      "routes": 1,
+      "dry_runs": 0,
+      "reasons": [
+        "payment pending (+4)",
+        "3 scout lead(s) (+9)"
+      ]
+    },
+    {
+      "package": "Local AI Chatbot Setup",
+      "platform": "Fiverr",
+      "score": 13,
+      "label": "\ud83d\udfe2 SHIPPING",
+      "routes": 1,
+      "dry_runs": 0,
+      "reasons": [
+        "payment pending (+4)",
+        "3 scout lead(s) (+9)"
+      ]
+    },
+    {
+      "package": "Android Dev Environment Setup",
+      "platform": "Upwork",
+      "score": 9,
+      "label": "\ud83d\udfe1 WARM",
+      "routes": 0,
+      "dry_runs": 0,
+      "reasons": [
+        "3 scout lead(s) (+9)"
+      ]
+    },
+    {
+      "package": "Lightning Payment Integration",
+      "platform": "Nostr",
+      "score": 9,
+      "label": "\ud83d\udfe1 WARM",
+      "routes": 0,
+      "dry_runs": 0,
+      "reasons": [
+        "3 scout lead(s) (+9)"
+      ]
+    },
+    {
+      "package": "Lightning Payment Integration",
+      "platform": "Upwork",
+      "score": 9,
+      "label": "\ud83d\udfe1 WARM",
+      "routes": 0,
+      "dry_runs": 0,
+      "reasons": [
+        "3 scout lead(s) (+9)"
+      ]
+    },
+    {
+      "package": "Local AI Chatbot Setup",
+      "platform": "Upwork",
+      "score": 9,
+      "label": "\ud83d\udfe1 WARM",
+      "routes": 0,
+      "dry_runs": 0,
+      "reasons": [
+        "3 scout lead(s) (+9)"
+      ]
+    }
+  ]
+}

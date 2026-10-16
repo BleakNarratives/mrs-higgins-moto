@@ -1,0 +1,58 @@
+[
+  {
+    "package_name": "Android Dev Environment Setup",
+    "platform": "Fiverr",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Android Dev Environment Setup on Fiverr\n\n**Tagline:** Turn your Android phone into a real development machine. No root required.\n\n**Description:** I'll configure a full Linux development environment on your Android device using Termux \u2014 Python, Node, Git, SSH, local AI inference, the works. Built for developers who need a portable setup that actually works, not a toy terminal.\n\n**Key Features:**\n- Termux full environment setup and hardening\n- Python, Node, Rust toolchain installation\n- Ollama local AI inference configured\n- SSH keys, Git config, dotfiles\n- SD card storage routing for large projects\n- Custom .bashrc with productivity aliases\n\n**Pricing:** Flat fee $99 / $49 add-on for custom tooling\n**Estimated ROI:** Replaces need for $500+ laptop for remote dev work\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  },
+  {
+    "package_name": "Android Dev Environment Setup",
+    "platform": "Upwork",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Android Dev Environment Setup on Upwork\n\n**Tagline:** Turn your Android phone into a real development machine. No root required.\n\n**Description:** I'll configure a full Linux development environment on your Android device using Termux \u2014 Python, Node, Git, SSH, local AI inference, the works. Built for developers who need a portable setup that actually works, not a toy terminal.\n\n**Key Features:**\n- Termux full environment setup and hardening\n- Python, Node, Rust toolchain installation\n- Ollama local AI inference configured\n- SSH keys, Git config, dotfiles\n- SD card storage routing for large projects\n- Custom .bashrc with productivity aliases\n\n**Pricing:** Flat fee $99 / $49 add-on for custom tooling\n**Estimated ROI:** Replaces need for $500+ laptop for remote dev work\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  },
+  {
+    "package_name": "Lightning Payment Integration",
+    "platform": "Fiverr",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Lightning Payment Integration on Fiverr\n\n**Tagline:** Accept Bitcoin payments instantly. No Stripe. No chargebacks. No middlemen.\n\n**Description:** I'll integrate Lightning Network payments into your existing website or app. Instant settlement, near-zero fees, global by default. Built for developers and small businesses who are done paying 2.9% per transaction to payment processors.\n\n**Key Features:**\n- LNbits or Voltage API integration\n- BOLT11 invoice generation endpoint\n- Webhook setup for payment confirmation\n- Basic dashboard for payment tracking\n- Works with any stack \u2014 Python, Node, PHP\n\n**Pricing:** Flat fee $199 / $99 for additional endpoints\n**Estimated ROI:** Saves 2.9% per transaction vs Stripe \u2014 pays for itself at ~$7k monthly volume\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  },
+  {
+    "package_name": "Lightning Payment Integration",
+    "platform": "Upwork",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Lightning Payment Integration on Upwork\n\n**Tagline:** Accept Bitcoin payments instantly. No Stripe. No chargebacks. No middlemen.\n\n**Description:** I'll integrate Lightning Network payments into your existing website or app. Instant settlement, near-zero fees, global by default. Built for developers and small businesses who are done paying 2.9% per transaction to payment processors.\n\n**Key Features:**\n- LNbits or Voltage API integration\n- BOLT11 invoice generation endpoint\n- Webhook setup for payment confirmation\n- Basic dashboard for payment tracking\n- Works with any stack \u2014 Python, Node, PHP\n\n**Pricing:** Flat fee $199 / $99 for additional endpoints\n**Estimated ROI:** Saves 2.9% per transaction vs Stripe \u2014 pays for itself at ~$7k monthly volume\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  },
+  {
+    "package_name": "Lightning Payment Integration",
+    "platform": "Nostr",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Lightning Payment Integration on Nostr\n\n**Tagline:** Accept Bitcoin payments instantly. No Stripe. No chargebacks. No middlemen.\n\n**Description:** I'll integrate Lightning Network payments into your existing website or app. Instant settlement, near-zero fees, global by default. Built for developers and small businesses who are done paying 2.9% per transaction to payment processors.\n\n**Key Features:**\n- LNbits or Voltage API integration\n- BOLT11 invoice generation endpoint\n- Webhook setup for payment confirmation\n- Basic dashboard for payment tracking\n- Works with any stack \u2014 Python, Node, PHP\n\n**Pricing:** Flat fee $199 / $99 for additional endpoints\n**Estimated ROI:** Saves 2.9% per transaction vs Stripe \u2014 pays for itself at ~$7k monthly volume\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  },
+  {
+    "package_name": "Local AI Chatbot Setup",
+    "platform": "Fiverr",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Local AI Chatbot Setup on Fiverr\n\n**Tagline:** Your own private AI assistant. No subscriptions. No data leaving your machine.\n\n**Description:** I'll set up a fully local, private AI chatbot on your hardware using Ollama and open-source models. No cloud dependency, no monthly fees after setup, no data harvesting. Runs on modest hardware. You own it completely.\n\n**Key Features:**\n- Ollama installation and model configuration\n- Model selection matched to your hardware specs\n- Simple web UI for non-technical users\n- Basic system prompt tuning for your use case\n- Documentation so you can maintain it yourself\n\n**Pricing:** Flat fee $149 setup / $49 for additional model configs\n**Estimated ROI:** Replaces $20-100/month ChatGPT or Copilot subscription within 2 months\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  },
+  {
+    "package_name": "Local AI Chatbot Setup",
+    "platform": "Upwork",
+    "status": "DRY_RUN",
+    "payment_id": null,
+    "invoice_bolt11": null,
+    "summary": "### [New SaaS Offering] Local AI Chatbot Setup on Upwork\n\n**Tagline:** Your own private AI assistant. No subscriptions. No data leaving your machine.\n\n**Description:** I'll set up a fully local, private AI chatbot on your hardware using Ollama and open-source models. No cloud dependency, no monthly fees after setup, no data harvesting. Runs on modest hardware. You own it completely.\n\n**Key Features:**\n- Ollama installation and model configuration\n- Model selection matched to your hardware specs\n- Simple web UI for non-technical users\n- Basic system prompt tuning for your use case\n- Documentation so you can maintain it yourself\n\n**Pricing:** Flat fee $149 setup / $49 for additional model configs\n**Estimated ROI:** Replaces $20-100/month ChatGPT or Copilot subscription within 2 months\n\n**Payment Method:** Lightning Network (BTC)\n**Lightning Address:** bleaknarratives@speed.app"
+  }
+]
